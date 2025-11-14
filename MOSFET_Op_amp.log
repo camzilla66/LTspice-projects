@@ -1,0 +1,6 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\ilike\LTspice-projects\MOSFET_Op_amp.net
+Start Time: Fri Nov 14 01:17:01 2025
+C:\Users\ilike\LTspice-projects\MOSFET_Op_amp.net(14): Undefined model "c".
+C2 NC_03 NC_04 C
+               ^
