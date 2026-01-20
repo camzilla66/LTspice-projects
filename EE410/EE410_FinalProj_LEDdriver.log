@@ -1,0 +1,16 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\ilike\LTspice-projects\EE410_FinalProj_LEDdriver.net
+Start Time: Mon Dec  1 15:16:09 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 16.715 seconds.
+
+Files loaded:
+C:\Users\ilike\LTspice-projects\EE410_FinalProj_LEDdriver.net
+C:\Users\ilike\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\ilike\AppData\Local\LTspice\lib\sub\LT1618.sub
+
